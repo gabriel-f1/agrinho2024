@@ -2,13 +2,13 @@
 Projeto do agrinho da equipe Tech Master
 
 Time de Desenvolvimento:
-    Victor Avalos
-    Juliano Alves
-    Matheus Oliveira
-    Helyaby Gabriel Ferreira Vieira
-    Gabriel Fontoura Melo - Tech Leader
-    Maria Eduarda - Product Owner
-    Isabella Holowka - Scrum Master
+    Victor Avalos;
+    Juliano Alves;
+    Matheus Oliveira;
+    Helyaby Gabriel Ferreira Vieira;
+    Gabriel Fontoura Melo - Tech Leader;
+    Maria Eduarda - Product Owner;
+    Isabella Holowka - Scrum Master;
 
 EXPLICAÇÃO DE NAVEGAÇÃO PELO SITE:
 
